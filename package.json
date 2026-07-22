@@ -1,14 +1,17 @@
 {
   "name": "game-waitlist-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "REST API for managing a game waitlist using Express.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [  "express",
+    "nodejs",
+    "rest-api",
+    "crud"],
+  "author": "Balnoorvir Kaur",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
