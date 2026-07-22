@@ -38,6 +38,6 @@ This project is a RESTful backend API built with Node.js and Express to manage a
 
 ##  Deployment
 
-* **GitHub Repository:** **
-* **Live API:** **
+* **GitHub Repository:** *https://github.com/balnoorvir/game-waitlist-api*
+* **Live API:** *game-waitlist-api-production.up.railway.app*
 
